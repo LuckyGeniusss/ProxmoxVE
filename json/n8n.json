@@ -18,9 +18,9 @@
             "type": "default",
             "script": "ct/n8n.sh",
             "resources": {
-                "cpu": 2,
-                "ram": 2048,
-                "hdd": 6,
+                "cpu": 4,
+                "ram": 4096,
+                "hdd": 60,
                 "os": "debian",
                 "version": "12"
             }
